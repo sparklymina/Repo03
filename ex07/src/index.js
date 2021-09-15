@@ -12,8 +12,8 @@ function main() {
 
     // Only change code above this line
     return {
-        studlyCapVar, 
-        properCamelCase, 
+        studlyCapVar,
+        properCamelCase,
         titleCaseOver
     }
 }
